@@ -1,0 +1,3 @@
+exports.crud = () => {
+    return Date();
+};
